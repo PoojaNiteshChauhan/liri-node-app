@@ -23,3 +23,5 @@ Video can be aacessed at the following link
 
 
 https://drive.google.com/file/d/1G8aZkSfp4xH_BikkUhDkdDtfTW6X2dgf/view?usp=sharing
+
+![Liri Screen Shots](https://github.com/PoojaNiteshChauhan/liri-node-app/blob/master/Slide2.JPG)
